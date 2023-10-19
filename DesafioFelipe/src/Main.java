@@ -29,7 +29,7 @@ public class Main {
                     + "para subir na proxima divisão é necessario ter mais "
                     + ((saldo - 101) * (-1)) + " de saldo";
         } else if (saldo >= 101) {
-            return "O Herói tem um saldo de " + saldo + " esta no IMORTAL\n"
+            return " O Herói tem um saldo de " + saldo + " esta no IMORTAL\n"
                     + "Você está na divisão mais alta!!!";
 
         }
